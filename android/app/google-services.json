@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950638596049",
+    "project_id": "servicelisting-app",
+    "storage_bucket": "servicelisting-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950638596049:android:0a07b77644d62113299af0",
+        "android_client_info": {
+          "package_name": "com.example.service_listing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPoBTf98C1_m5L511N_K8gVXllgglAE6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
