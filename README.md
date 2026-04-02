@@ -52,7 +52,46 @@ HireLoop is a modern, feature-rich Flutter application that connects service see
 
 ---
 
-## 🛠️ Tech Stack
+## � Screenshots & App Demo
+
+### App Screenshots
+<table>
+  <tr>
+    <td align="center"><img src="images/1.jpeg" width="180" alt="Screenshot 1"></td>
+    <td align="center"><img src="images/2.jpeg" width="180" alt="Screenshot 2"></td>
+    <td align="center"><img src="images/3.jpeg" width="180" alt="Screenshot 3"></td>
+    <td align="center"><img src="images/4.jpeg" width="180" alt="Screenshot 4"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="images/5.jpeg" width="180" alt="Screenshot 5"></td>
+    <td align="center"><img src="images/6.jpeg" width="180" alt="Screenshot 6"></td>
+    <td align="center"><img src="images/7.jpeg" width="180" alt="Screenshot 7"></td>
+    <td align="center"><img src="images/8.jpeg" width="180" alt="Screenshot 8"></td>
+  </tr>
+</table>
+
+### WhatsApp Demo Screens
+<table>
+  <tr>
+    <td align="center"><img src="images/WhatsApp%20Image%20.jpeg" width="180" alt="WhatsApp Demo 1"></td>
+    <td align="center"><img src="images/WhatsApp%20Image%2020.jpeg" width="180" alt="WhatsApp Demo 2"></td>
+    <td align="center"><img src="images/WhatsApp%20Image%202026-04-02%20at%206.00.09%20PM.jpeg" width="180" alt="WhatsApp Demo 3"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="images/WhatsApp%20Image%202026-04-02%20at%206.00.10%20PM.jpeg" width="180" alt="WhatsApp Demo 4"></td>
+    <td align="center"><img src="images/WhatsApp%20Image%202026-04-02%20at%206.12.44%20PM.jpeg" width="180" alt="WhatsApp Demo 5"></td>
+  </tr>
+</table>
+
+---
+
+## �🛠️ Tech Stack
 
 ### Frontend
 - **Framework**: [Flutter](https://flutter.dev/) - Cross-platform mobile development
