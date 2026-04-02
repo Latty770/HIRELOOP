@@ -52,7 +52,38 @@ HireLoop is a modern, feature-rich Flutter application that connects service see
 
 ---
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+### Authentication & User Profile
+<table>
+  <tr>
+    <td align="center"><img src="images/login.jpg" width="200" alt="Login Screen"><br><b>Login Screen</b></td>
+    <td align="center"><img src="images/signup.jpg" width="200" alt="Signup Screen"><br><b>Signup Screen</b></td>
+    <td align="center"><img src="images/profile.jpg" width="200" alt="User Profile"><br><b>User Profile</b></td>
+  </tr>
+</table>
+
+### Services & Providers
+<table>
+  <tr>
+    <td align="center"><img src="images/cleaning.png" width="200" alt="Cleaning Services"><br><b>Cleaning Services</b></td>
+    <td align="center"><img src="images/laundry.png" width="200" alt="Laundry Services"><br><b>Laundry Services</b></td>
+    <td align="center"><img src="images/painting.png" width="200" alt="Painting Services"><br><b>Painting Services</b></td>
+  </tr>
+</table>
+
+### Additional Services
+<table>
+  <tr>
+    <td align="center"><img src="images/reparing.png" width="200" alt="Repair Services"><br><b>Repair Services</b></td>
+    <td align="center"><img src="images/boy.jpg" width="200" alt="Service Provider 1"><br><b>Service Provider</b></td>
+    <td align="center"><img src="images/girl.jpg" width="200" alt="Service Provider 2"><br><b>Service Provider</b></td>
+  </tr>
+</table>
+
+---
+
+## �🛠️ Tech Stack
 
 ### Frontend
 - **Framework**: [Flutter](https://flutter.dev/) - Cross-platform mobile development
